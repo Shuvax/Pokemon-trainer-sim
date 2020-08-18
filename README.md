@@ -1,2 +1,2 @@
 # Pokemon-trainer-sim
-Basic Pokemon trainer movement sim
+Basic Pokemon trainer movement simulator
